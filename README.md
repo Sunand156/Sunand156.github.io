@@ -1,4 +1,4 @@
-# 李慧的个人主页 :wink:
+# Duanhang的个人主页 :wink:
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
@@ -17,6 +17,6 @@
 
 ### 相关链接
 
-1. 博客园：[https://github.com/Rebecca3150/](https://github.com/Rebecca3150/) 
-2. github: [https://www.cnblogs.com/xiaxiaoshu/](https://www.cnblogs.com/xiaxiaoshu/) 
+1. 博客园：[https://github.com/Sunand156/](https://github.com/Sunand156/) 
+2. github: [https://www.cnblogs.com/hang-hang/](https://www.cnblogs.com/hang-hang/) 
 
