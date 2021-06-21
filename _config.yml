@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "段行"
+resume_name:                    "Duanhang的主页"
 resume_title:                   "个人简历"
 
 # used for the contact button in _layouts/resume.html
